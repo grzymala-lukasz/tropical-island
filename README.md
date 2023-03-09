@@ -1,4 +1,5 @@
-# tropical-island
+# Tropical Paradise
 
 Landing page - HTML SCSS
-live: https://grzymala-lukasz.github.io/tropical-island/
+
+<br> live: https://grzymala-lukasz.github.io/tropical-island/
